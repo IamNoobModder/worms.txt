@@ -21,8 +21,8 @@ Category_Currency & Inventory;
 Category_Player Snake;
 4_ButtonOnOff_God Mode;
 9_SeekBar_Player Speed_0_20;
-8_SeekBar_Zoom Scale_0_20;
-29_SeekBar_Light Radius_0_10000;
+8_Toggle_No Damage Skill;
+29_SeekBar_Light Radius_0_20;
 24_ButtonOnOff_Auto Accelerator [Self];
 10_ButtonOnOff_Player Magnet;
 18_ButtonOnOff_Mega Food Growth;
@@ -87,4 +87,4 @@ best_score_sym->_ZN7profile12getBestScoreEv
 games_played_sym->_ZN7profile14getGamesPlayedEv
 victories_sym->_ZN7profile12getVictoriesEv
 top3_sym->_ZN7profile7getTop3Ev
-light_sym->_ZNK18cGoldFeverRenderer13getLightCountEv
+light_sym->_ZN7cSkills11onCollisionEP5cWormb
