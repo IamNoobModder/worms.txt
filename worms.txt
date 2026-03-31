@@ -22,7 +22,7 @@ Category_Player Snake;
 4_ButtonOnOff_God Mode;
 9_SeekBar_Player Speed_0_20;
 8_SeekBar_Zoom Scale_0_20;
-29_SeekBar_Light Radius_0_20;
+29_SeekBar_Light Radius_0_10000;
 24_ButtonOnOff_Auto Accelerator [Self];
 10_ButtonOnOff_Player Magnet;
 18_ButtonOnOff_Mega Food Growth;
