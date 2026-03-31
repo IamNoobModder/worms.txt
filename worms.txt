@@ -15,14 +15,13 @@ Category_Profile Stats & UserID;
 
 Category_Currency & Inventory;
 1_InputValue_Set Amount;
-2_Spinner_Select Currency_Coins,Gems,Pickaxes,Items;
+2_Spinner_Select Currency_Coins,Gems,Pickaxes,EventCurrency,Items;
 3_ButtonOnOff_Unlimited Currency;
 
 Category_Player Snake;
 4_ButtonOnOff_God Mode;
 9_SeekBar_Player Speed_0_20;
 8_SeekBar_Zoom Scale_0_20;
-29_CheckBox_No Damage Skill;
 24_ButtonOnOff_Auto Accelerator [Self];
 10_ButtonOnOff_Player Magnet;
 18_ButtonOnOff_Mega Food Growth;
@@ -87,4 +86,4 @@ best_score_sym->_ZN7profile12getBestScoreEv
 games_played_sym->_ZN7profile14getGamesPlayedEv
 victories_sym->_ZN7profile12getVictoriesEv
 top3_sym->_ZN7profile7getTop3Ev
-light_sym->_ZN7cSkills11onCollisionEP5cWormb
+currency_sym->_ZN7profile21getEventCurrencyTotalEv
