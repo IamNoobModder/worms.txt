@@ -20,20 +20,26 @@ Category_Currency & Inventory;
 
 Category_Player Snake;
 4_ButtonOnOff_God Mode;
+29_ButtonOnOff_No Damage BarrelI;
+30_ButtonOnOff_No Damage Dynamite;
 9_SeekBar_Player Speed_0_20;
 8_SeekBar_Zoom Scale_0_20;
 24_ButtonOnOff_Auto Accelerator [Self];
 10_ButtonOnOff_Player Magnet;
 18_ButtonOnOff_Mega Food Growth;
+33_ButtonOnOff_Active Food Boost;
 6_ButtonOnOff_Infinite Powerups Time;
 19_ButtonOnOff_Always Active Powerups;
 20_ButtonOnOff_Always Active Boosters;
 
 Category_Enemy Snake;
 14_ButtonOnOff_Enemy God Mode;
+31_ButtonOnOff_No Damage BarrelI;
+32_ButtonOnOff_No Damage Dynamite;
 11_SeekBar_Enemy Speed_0_20;
 12_ButtonOnOff_Enemy Magnet;
 21_ButtonOnOff_Enemy Mega Growth;
+34_ButtonOnOff_Active Food Boost;
 16_ButtonOnOff_Enemy Infinite Powerups;
 22_ButtonOnOff_Enemy Always Powerups;
 23_ButtonOnOff_Enemy Always Boosters;
@@ -87,3 +93,6 @@ games_played_sym->_ZN7profile14getGamesPlayedEv
 victories_sym->_ZN7profile12getVictoriesEv
 top3_sym->_ZN7profile7getTop3Ev
 currency_sym->_ZN7profile21getEventCurrencyTotalEv
+BarrelCollision_sym->_ZN5cGame17onBarrelCollisionEP5cWormPK17sObstacleInstance
+onDynamiteCollision_sym->_ZN5cGame19onDynamiteCollisionEP5cWormRK9ageVectorPK17sObstacleInstance
+processEatenFood_sym->_ZN5cGame16processEatenFoodEP5cWormRK5sFoodf
