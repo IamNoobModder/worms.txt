@@ -2,7 +2,7 @@
 MENU:Category_Profile Settings;
 5_ButtonOnOff_Remove Ads;
 17_ButtonOnOff_Black Background;
-
+33_ButtonOnOff_Props Level Max;
 Category_Unlock & Purchases;
 7_ButtonOnOff_Unlock All Skins;
 13_ButtonOnOff_Unlock All Backgrounds;
@@ -27,7 +27,6 @@ Category_Player Snake;
 24_ButtonOnOff_Auto Accelerator [Self];
 10_ButtonOnOff_Player Magnet;
 18_ButtonOnOff_Mega Food Growth;
-33_ButtonOnOff_Test Blue Clour;
 6_ButtonOnOff_Infinite Powerups Time;
 19_ButtonOnOff_Always Active Powerups;
 20_ButtonOnOff_Always Active Boosters;
