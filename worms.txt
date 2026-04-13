@@ -3,7 +3,7 @@ MENU:Category_Profile Settings;
 5_ButtonOnOff_Remove Ads;
 17_ButtonOnOff_Black Background;
 33_ButtonOnOff_Unlimited Respawn;
-34_ButtonOnOff_infinite Size Respawn;
+34_ButtonOnOff_Match Finish LevelUp;
 Category_Unlock & Purchases;
 7_ButtonOnOff_Unlock All Skins;
 13_ButtonOnOff_Unlock All Backgrounds;
