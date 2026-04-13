@@ -63,7 +63,7 @@ an_show_video->_ZN8cAdsNull9showVideoEv
 
 # ================= GAMEPLAY =================
 set_worm_sym->_ZN7cPlayer7setWormEP5cWorm
-respawn_sym->_ZN7cSkills19isRespawnedBySkillsEP5cWorm
+respawn_sym->_ZN5cWorm14isInvulnerableEv
 accel_pressed_sym->_ZN5cWorm18acceleratorPressedEb
 speed_sym->_ZNK5cWorm18calculateMoveSpeedEv
 eat_radius_sym->_ZNK5cWorm12getEatRadiusEv
