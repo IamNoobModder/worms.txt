@@ -4,7 +4,7 @@ MENU:Category_Profile Settings;
 17_ButtonOnOff_Black Background;
 33_ButtonOnOff_Unlimited Respawn;
 34_ButtonOnOff_Match Finish LevelUp;
-35_ButtonOnOff_Water Canon Active;
+35_ButtonOnOff_All Boost Active;
 
 Category_Unlock & Purchases;
 7_ButtonOnOff_Unlock All Skins;
@@ -99,4 +99,5 @@ BarrelCollision_sym->_ZN5cGame17onBarrelCollisionEP5cWormPK17sObstacleInstance
 onDynamiteCollision_sym->_ZN5cGame19onDynamiteCollisionEP5cWormRK9ageVectorPK17sObstacleInstance
 getrespawn_sym->_ZNK12cGameSession15getRespawnLimitEv
 addXp_sym->_ZN11cExperience13addExperienceEj
-addskillUp_sym->_ZNK5cWorm10getHeadPosEv
+booster_active_sym->_ZN7profile18isBoosterActivatedEj
+game_played_check_sym->_ZN7profile12isGamePlayedEv
