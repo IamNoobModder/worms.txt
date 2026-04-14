@@ -28,6 +28,7 @@ Category_Player Snake;
 30_ButtonOnOff_No Damage Dynamite;
 9_SeekBar_Player Speed_0_20;
 8_SeekBar_Zoom Scale_0_20;
+37_ButtonOnOff_Skill No Damage;
 24_ButtonOnOff_Auto Accelerator [Self];
 10_ButtonOnOff_Player Magnet;
 18_ButtonOnOff_Mega Food Growth;
@@ -102,3 +103,4 @@ getrespawn_sym->_ZNK12cGameSession15getRespawnLimitEv
 addXp_sym->_ZN11cExperience13addExperienceEj
 booster_active_sym->_ZN7profile18isBoosterActivatedEj
 endless_booster_sym->_ZN7profile23isEndlessBoostersActiveEv
+skill_collision_sym->_ZN7cSkills11onCollisionEP5cWormb
