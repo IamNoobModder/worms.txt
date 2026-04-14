@@ -5,6 +5,7 @@ MENU:Category_Profile Settings;
 33_ButtonOnOff_Unlimited Respawn;
 34_ButtonOnOff_Match Finish LevelUp;
 35_ButtonOnOff_All Boost Active;
+36_ButtonOnOff_Endless Boost;
 
 Category_Unlock & Purchases;
 7_ButtonOnOff_Unlock All Skins;
@@ -100,4 +101,4 @@ onDynamiteCollision_sym->_ZN5cGame19onDynamiteCollisionEP5cWormRK9ageVectorPK17s
 getrespawn_sym->_ZNK12cGameSession15getRespawnLimitEv
 addXp_sym->_ZN11cExperience13addExperienceEj
 booster_active_sym->_ZN7profile18isBoosterActivatedEj
-game_played_check_sym->_ZN7profile12isGamePlayedEv
+endless_booster_sym->_ZN7profile23isEndlessBoostersActiveEv
