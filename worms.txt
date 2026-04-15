@@ -5,7 +5,6 @@ MENU:Category_Profile Settings;
 33_ButtonOnOff_Unlimited Respawn;
 34_ButtonOnOff_Match Finish LevelUp;
 35_ButtonOnOff_All Boost Active;
-36_ButtonOnOff_Endless Boost;
 
 Category_Unlock & Purchases;
 7_ButtonOnOff_Unlock All Skins;
@@ -28,7 +27,6 @@ Category_Player Snake;
 30_ButtonOnOff_No Damage Dynamite;
 9_SeekBar_Player Speed_0_20;
 8_SeekBar_Zoom Scale_0_20;
-37_ButtonOnOff_Skill No Damage;
 24_ButtonOnOff_Auto Accelerator [Self];
 10_ButtonOnOff_Player Magnet;
 18_ButtonOnOff_Mega Food Growth;
@@ -102,5 +100,3 @@ onDynamiteCollision_sym->_ZN5cGame19onDynamiteCollisionEP5cWormRK9ageVectorPK17s
 getrespawn_sym->_ZNK12cGameSession15getRespawnLimitEv
 addXp_sym->_ZN11cExperience13addExperienceEj
 booster_active_sym->_ZN7profile18isBoosterActivatedEj
-endless_booster_sym->_ZN7profile23isEndlessBoostersActiveEv
-skill_collision_sym->_ZN7cSkills11onCollisionEP5cWormb
